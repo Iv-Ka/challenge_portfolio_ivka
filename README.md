@@ -1,8 +1,6 @@
 
 Task 1: Software configuration
 
-Task 1: Software configuration
-
 
 Subtask 1: Why did I choose to participate in the Dare IT Challenge?
 
